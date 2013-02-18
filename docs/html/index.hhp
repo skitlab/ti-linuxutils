@@ -1,0 +1,62 @@
+[OPTIONS]
+Compiled file=linuxutils_3_22_00_02.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Linux Utils Application Programming Interface (API)
+
+[WINDOWS]
+main="Linux Utils Application Programming Interface (API)","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+index.html
+pages.html
+cmem_8h_source.html
+sdma_8h_source.html
+cmem_8h.html
+disclaimer_8dox.html
+doxygen_8txt.html
+sdma_8h.html
+_disclaimer.html
+group__ti__sdo__linuxutils__cmem___c_m_e_m.html
+group__ti__sdo__linuxutils__sdma___s_d_m_a.html
+modules.html
+annotated.html
+classes.html
+functions.html
+functions_vars.html
+struct_c_m_e_m___alloc_params.html
+struct_c_m_e_m___block_attrs.html
+struct_s_d_m_a___channel_descriptor.html
+union_s_d_m_a__request_dma_params.html
+struct_s_d_m_a__transfer_state.html
+graph_legend.html
+dir_8dc91a858aeea358d00c0458da522c77.html
+dir_ef0950ec58866d740b4278d2e9e4d226.html
+dir_7bfe2229ddf70c2852194031aff8c965.html
+dir_1e953a4014b637e03f0b709bbc1bfb62.html
+dir_e2fab86601a4d47b11bcc071f1187e23.html
+dir_9f8cf0f9feee68a4e26fafe114c17c52.html
+dir_4a6604f218d391b9d5c566faf4993fe1.html
+dir_d597e642df100632ff75ef12f1ad4560.html
+files.html
+dirs.html
+globals.html
+globals_func.html
+globals_vars.html
+globals_type.html
+globals_enum.html
+globals_eval.html
+globals_defs.html
+tabs.css
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
