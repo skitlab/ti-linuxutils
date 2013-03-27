@@ -1,5 +1,4 @@
-
-. /opt/dm8168-toolchain-env.sh
+. $HOME/j.skit/dm8168/ti-env.sh
 
 make \
  -C $THIRD_PARTY_DIR/linuxutils/packages/ti/sdo/linuxutils/cmem/src/module \
