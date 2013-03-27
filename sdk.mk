@@ -65,14 +65,14 @@ DOCDIR = $(DESTDIR)/$(prefix)/$(docdir)
 
 install:
 	@echo "Installing libraries.."
-	@mkdir -p $(LIBDIR)
-	@cd packages && cp -f --parents $(LIBS) $(LIBDIR)
+	mkdir -p $(LIBDIR)
+	cd packages && cp -f $(LIBS) $(LIBDIR)
 	@echo "Installing header files.."
-	@mkdir -p $(INCDIR)
-	@cd packages && cp -f --parents $(HEADERS) $(INCDIR)
+	mkdir -p $(INCDIR)
+	cd packages && cp -f $(HEADERS) $(INCDIR); true
 	@echo "Installing documentation.."
-	@mkdir -p $(DOCDIR)
-	@cp -fR $(DOCS) docs/* $(DOCDIR)
+	mkdir -p $(DOCDIR)
+	cp -fR $(DOCS) docs/* $(DOCDIR)
 
 help:
 	@echo
